@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res"/><source path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/build/generated/res/rs/debug"/><source path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res"><file name="ic_action_search" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/drawable-hdpi/ic_action_search.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/drawable-ldpi/ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_action_search" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/drawable-mdpi/ic_action_search.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_search" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/drawable-xhdpi/ic_action_search.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="activity_finish_screen" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/layout/activity_finish_screen.xml" qualifiers="" type="layout"/><file name="activity_generating_screen" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/layout/activity_generating_screen.xml" qualifiers="" type="layout"/><file name="activity_main" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="activity_play_maze" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/layout/activity_play_maze.xml" qualifiers="" type="layout"/><file name="activity_title_screen" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/layout/activity_title_screen.xml" qualifiers="" type="layout"/><file name="activity_delete_dis" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/menu/activity_delete_dis.xml" qualifiers="" type="menu"/><file name="activity_delete_dis_dick" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/menu/activity_delete_dis_dick.xml" qualifiers="" type="menu"/><file name="activity_finish_screen" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/menu/activity_finish_screen.xml" qualifiers="" type="menu"/><file name="activity_generating_screen" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/menu/activity_generating_screen.xml" qualifiers="" type="menu"/><file name="activity_main" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/menu/activity_main.xml" qualifiers="" type="menu"/><file name="activity_play_maze" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/menu/activity_play_maze.xml" qualifiers="" type="menu"/><file name="activity_title_screen" path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/menu/activity_title_screen.xml" qualifiers="" type="menu"/><file path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/values/strings.xml" qualifiers=""><string name="title_activity_generating_screen">GeneratingScreen</string><string name="genStore">Generate and Store</string><string-array name="RobotDrivers">
+        <item>Gambler</item>
+        <item>CuriousGambler</item>
+        <item>WallFollower</item>
+        <item>Wizard</item>
+        <item>Manual</item>
+	</string-array><string name="showSolution">Show solution in maze</string><string name="load_file">Load existing maze from file</string><string name="energy_used">Energy Used:____</string><string-array name="Algorithms">
+        <item>Backtracker</item>
+        <item>Prim</item>
+        <item>Kruskal</item>
+	</string-array><string name="showWalls">Show currently visible walls</string><string name="path_length">Length of Path:____</string><string name="driverSpinner_prompt">Select a robot</string><string name="title_activity_play_maze">PlayMaze</string><string name="finish_maze">Maze finished</string><string name="hello_world">Hello world!</string><string name="play_maze">Playing Maze</string><string name="menu_settings">Settings</string><string-array name="Challenges">
+        <item>No Challenge Selected</item><item>Challenge 1</item>
+        <item>Challenge 2</item>
+        <item>Challenge 3</item>
+        <item>Challenge 4</item>
+        <item>Challenge 5</item>
+        
+    </string-array><string-array name="Complexity">
+	    <item>0</item>
+	    <item>1</item>
+	    <item>2</item>
+	    <item>3</item>
+	    <item>4</item>
+	    <item>5</item>
+	    <item>6</item>
+	    <item>7</item>
+	    <item>8</item>
+	    <item>9</item>
+	    <item>a</item>
+	    <item>b</item>
+	    <item>c</item>
+	    <item>d</item>
+	    <item>e</item>
+	    <item>f</item>	     
+	</string-array><string name="back">Back</string><string name="title_activity_finish_screen">FinishScreen</string><string name="genmaze">Generating Maze..</string><string name="BackPlay">Back</string><string name="genPlay">Generate and Play</string><string name="title_activity_title_screen">TitleScreen</string><string name="app_name">AMaze</string><string name="showMazeAbove">Show whole maze from above</string><string name="ToStateFinish">To Finish Screen</string><string name="reset">Reset Configuration</string></file><file path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="android:Theme.Light"/></file><file path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppTheme" parent="android:Theme.Holo.Light"/></file><file path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar"/></file></source><source path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/build/generated/res/rs/debug"/><source path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/debug/res"/></dataSet><mergedItems/></merger>

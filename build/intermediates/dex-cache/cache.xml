@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="612846c9857077a039b533718f72db3bc041d389">
+        <dex dex="/Users/davidvinegar/StudioProjects/AMaze12/AMaze12/build/intermediates/pre-dexed/debug/android-support-v4_c1bd180ec43a6090ff9a5bf771c1b92b7a20e9c2.jar" />
+    </item>
+
+</items>

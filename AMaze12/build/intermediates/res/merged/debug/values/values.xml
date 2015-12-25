@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Algorithms">
+        <item>Backtracker</item>
+        <item>Prim</item>
+        <item>Kruskal</item>
+	</string-array>
+    <string-array name="Challenges">
+        <item>No Challenge Selected</item><item>Challenge 1</item>
+        <item>Challenge 2</item>
+        <item>Challenge 3</item>
+        <item>Challenge 4</item>
+        <item>Challenge 5</item>
+        
+    </string-array>
+    <string-array name="Complexity">
+	    <item>0</item>
+	    <item>1</item>
+	    <item>2</item>
+	    <item>3</item>
+	    <item>4</item>
+	    <item>5</item>
+	    <item>6</item>
+	    <item>7</item>
+	    <item>8</item>
+	    <item>9</item>
+	    <item>a</item>
+	    <item>b</item>
+	    <item>c</item>
+	    <item>d</item>
+	    <item>e</item>
+	    <item>f</item>	     
+	</string-array>
+    <string-array name="RobotDrivers">
+        <item>Gambler</item>
+        <item>CuriousGambler</item>
+        <item>WallFollower</item>
+        <item>Wizard</item>
+        <item>Manual</item>
+	</string-array>
+    <string name="BackPlay">Back</string>
+    <string name="ToStateFinish">To Finish Screen</string>
+    <string name="app_name">AMaze</string>
+    <string name="back">Back</string>
+    <string name="driverSpinner_prompt">Select a robot</string>
+    <string name="energy_used">Energy Used:____</string>
+    <string name="finish_maze">Maze finished</string>
+    <string name="genPlay">Generate and Play</string>
+    <string name="genStore">Generate and Store</string>
+    <string name="genmaze">Generating Maze..</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="load_file">Load existing maze from file</string>
+    <string name="menu_settings">Settings</string>
+    <string name="path_length">Length of Path:____</string>
+    <string name="play_maze">Playing Maze</string>
+    <string name="reset">Reset Configuration</string>
+    <string name="showMazeAbove">Show whole maze from above</string>
+    <string name="showSolution">Show solution in maze</string>
+    <string name="showWalls">Show currently visible walls</string>
+    <string name="title_activity_finish_screen">FinishScreen</string>
+    <string name="title_activity_generating_screen">GeneratingScreen</string>
+    <string name="title_activity_play_maze">PlayMaze</string>
+    <string name="title_activity_title_screen">TitleScreen</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

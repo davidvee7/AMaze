@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.wm.cs.cs301.UI.test">
+
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="15" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="edu.wm.cs.cs301.UI"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for edu.wm.cs.cs301.UI"/>
+</manifest>

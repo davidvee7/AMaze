@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:1:1-52:12
+	xmlns:android
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:1:11-69
+	package
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:7:9-34
+		INJECTED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml
+application
+ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:10:5-50:19
+	android:label
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:11:9-45
+	android:theme
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:13:9-40
+activity#edu.wm.cs.cs301.UI.TitleScreen
+ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:16:13-64
+	android:name
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:15:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:20:27-74
+activity#edu.wm.cs.cs301.UI.GeneratingScreen
+ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:24:13-45
+intent-filter#android.intent.category.LAUNCHER
+ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:26:13-30:29
+activity#edu.wm.cs.cs301.UI.PlayMaze
+ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:34:13-61
+	android:name
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:33:13-37
+activity#edu.wm.cs.cs301.UI.FinishScreen
+ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:41:9-49:20
+	android:label
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:43:13-65
+	android:name
+		ADDED from /Users/davidvinegar/StudioProjects/AMaze12/AMaze12/src/main/AndroidManifest.xml:42:11-39
