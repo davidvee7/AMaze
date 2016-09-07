@@ -1,2 +1,2 @@
 # AMaze
-First person 3-D Maze game written in 2012.  
+First person 3-D Maze Android game written in 2012.  
